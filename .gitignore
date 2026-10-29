@@ -1,0 +1,11 @@
+.lake/
+*.olean
+*.ilean
+*.c
+*.trace
+scratch*.lean
+test_*.lean
+lean_out.txt
+scratch*_out.txt
+axiom_out.txt
+test_axiom_out.txt
